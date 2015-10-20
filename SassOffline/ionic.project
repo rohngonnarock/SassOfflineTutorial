@@ -1,0 +1,12 @@
+{
+  "name": "SassOffline",
+  "app_id": "d38ae36c",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
+}
